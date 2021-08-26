@@ -29,3 +29,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 
 Juan Camilo Neira Campos 201922746 j.neira@uniandes.edu.co
+
+Daniel Dorado Toro 201821010 df.dorado@uniandes.edu.co
